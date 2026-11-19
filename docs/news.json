@@ -1,7 +1,13 @@
 {
- "updated": "2026-11-19T17:20:15.219Z",
+ "updated": "2026-11-19T21:07:18.180Z",
  "count": 40,
  "items": [
+  {
+   "t": "[속보] 비자·마스터카드·체이스 고객정보 유출…서비스 업체 해킹",
+   "s": "애틀랜타 K 뉴스",
+   "d": "2026-11-20",
+   "u": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORjQza1VsSnN5RkVCcF9zWWphUFVEdVlpLV9EM0hudmhXZ1hTN3ZKZVhjVmxqandpYlJtYW02eW1BMzZqRG84S21LM0otZ2VYQ3hobGctS1VTc3V2bVNFWmF6eDVxaDhwbVRicTdTRV9iQ0I3NHI2M3VYMmFGeEZvVlZrdUZTUXFkZjZNUUlZbl81d2t2NGl1M2ZGc1VmSElHU2NMVDQ1X1c0U0swRjFrbXdBLUg3Z09iUzA5eGMtQlN0LXR6elU2cXZwWnJIcVByVTlQMEZRMWdYS3dEczlZYzJwX29mdGpzcmlDcTlOVG45U0dFLS1kc0JGeVBSVzFVLUxJMW5OOFJwNFdEVktGM2JmVWtmR3B5MHdQajdTekRLSElPeXRzNXc5TzZQZkxjWXc?oc=5"
+  },
   {
    "t": "공공부문 개인정보 유출 땐 기관장도 ‘문책’",
    "s": "국민일보",
@@ -57,22 +63,16 @@
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlR1VYUVZ2QkgzOGg1eUpEM0tvdVg1Nnh1R1BZdC1za0UtTDJvc3ZvUjA0dFNFMjF3SHFDYXk2WDhTQ0FIdVJSWDhEWjZsZDZJdm1zOWRPZjU1M3N1OXVJVE5lYnM?oc=5"
   },
   {
-   "t": "이번 개인정보 유출 사고는 「모두의 창업」 공식 플랫폼을 통해 발생한 것이 아닙니다.",
-   "s": "대한민국 정책브리핑",
+   "t": "노란우산 개인정보 36만여 건 유출 공식 확인…계좌번호·공제 납부정보까지 노출",
+   "s": "데일리시큐",
    "d": "2026-11-19",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KaDFXNml5TFJVZFRpbS1TdHlHNFFVdlBCdkhtbC1UY2pUcXhDV1JXU2MtMUVxdWQ3NWw2S2w5NUx3LTNkdkxMM3BGM3lfTUpUa2JfdGhlVjB0RlBueWtkVkYzZ20yOEZsVGdOdEIwSQ?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DTjFzSUFxbmNXQUtmTU91a01FOHFjR2IySkRabE9ONU9sMkIwc2dONTdsWVhFbXFXUGo2dzBMbkNVbEhvWTlMNzJtczM2bnZyQTRzVjZrSHEzNkVHenJPcjdRNWY4aENIaFNMeA?oc=5"
   },
   {
    "t": "日 기업들, 탈퇴 고객 정보까지 보관…해킹에 개인정보 줄줄이 유출",
    "s": "진일보 | 전남일보",
    "d": "2026-11-19",
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pLU0yMGl2QjNYT3ZGeXRkVU1Ba2ZHbDdLR3RwR2NXRW1FYjNVOWVGa3dCWHEwNFFPUkdSdFUwbzVSaU5Kc2MwMG15UDVkZzZKbWxzZ3JJa25nT0dBd2FoQVBMSjk1cWNHcHlqbE04TQ?oc=5"
-  },
-  {
-   "t": "전주대 개인정보 18만 건 유출…국회 차원 진상규명·관리감독 강화해야",
-   "s": "전민일보",
-   "d": "2026-11-19",
-   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iSm4xSWE4bkxDeHVOaU9rZi0wZUpGUHpIbHp3VlV5Ql93ckRteFBzLVkzNzAzZjRyY1NRelI4Z2RmbHc1ZWExdHBtM05reVRpSllFU3UyQ1dGNU1DMkxUVm0zLVZoUjFZMkhr?oc=5"
   },
   {
    "t": "배재대, LMS·학사시스템 해킹에 개인정보 유출",
@@ -105,22 +105,34 @@
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Za2hWbnRJcy1uYVVvZEg0c0JIdlp5VTJPMG01d3ZsSlplaWRKSTR4ZDRrckRDdllZUHdaVUJrcjdFSnNrWUQ1VGp1TnRiSU9MZTJjek5DRlFBZHJmRXhoNDR4S3ZrXzNyRjM2MENB?oc=5"
   },
   {
+   "t": "저축은행 직원 교육사이트 해킹…직원 소속·이름 등 개인정보 유출",
+   "s": "아주경제",
+   "d": "2026-11-19",
+   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11LXpvVHVocm9PelU3OUVld2V5Q1Bvc2hlU3UxdTFyVEFLclhwdlE4aGxkdHdYVHphMTRsV3JNbHc0M2tvR05lejJwMUdJSXZqYkVZMzZDRTTSAVhBVV95cUxNdS16b1R1aHJvT3pVNzlFZXdleUNQb3NoZVN1MXUxclRBS3JYcHZROGhsZHR3WFR6YTE0bFdyTWx3NDNrb0dOZXoycDFHSUl2amJFWTM2Q0U0?oc=5"
+  },
+  {
    "t": "인사혁신처, 공공기관 개인정보 유출 땐 기관장도 책임… 공무원 징계 수위 높인다",
    "s": "전자신문",
    "d": "2026-11-19",
    "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvV0wxR1FaNURQRUtGYW1kRzV2RU9mYXBWbXhnOEtCVm5EVTB4aDZaU0RRdWdqazZUc2FGNnhuUXV3NFdKc0FxeGtoaTg3QQ?oc=5"
   },
   {
-   "t": "개인정보 유출 2차 피해 최소화 ‘총력’",
-   "s": "한국방송뉴스",
-   "d": "2026-11-19",
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vejhOaUxyNWI0aXFlaUswSVhHbVpXNTkxd3l6QTRSeVM4b1kwMElXU0J3T2wycndIUmk0eVExYTlzVkVWenZ6UW42VjA3dThmS09kVldnMDhqWURPd0E?oc=5"
-  },
-  {
    "t": "저축은행 직원 정보 유출…중앙회 \"사칭 금융사기 주의\"",
    "s": "매일일보",
    "d": "2026-11-19",
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5STW9IQWRIR05WeS1PT19BbFFBeXNwYWN4SkJ6b2R2UHd2SmZ3a1dVelJSd0lCTHlPNTR3aHA0SE9veGJKQmtzRnpTQ2JELUFHbXA3bE9wZ1YtSndXSzhSZXpCc1k?oc=5"
+  },
+  {
+   "t": "대구경북권 대학서 해킹 피해 잇따라…영남대서도 개인정보 유출",
+   "s": "KBS 뉴스",
+   "d": "2026-11-19",
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yTkFJbU00ZmN1YzB3d2g1T2lUbXNVSkdiaks2aERGRzZhT21JaGJDVm5PMXBpUE1TS05yamI4dWZMZ1pRY1Njc1Jpem9TQlpIcURMQ1hDcUJpM3hIV3dBcmpZMVJYZw?oc=5"
+  },
+  {
+   "t": "저축은행 직원정보까지 해킹…외부 교육망 보안 허점",
+   "s": "팩트인뉴스",
+   "d": "2026-11-19",
+   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0WmRTeWgtQl9FbkU0Z0dlRGhEYjlJZWFZNk01V05kS0JDQ3RmM1JGLWU5VG9sSUNOR1R4OFZlVnNzbngwU3Z2em1FdXNKTlU5ZlRXYy1QbHVPRDFSbV8zeWZ3Y3czNkN4VXdXd3lEbGHSAXRBVV95cUxOQTJOazYxZVYzX2hLTzVsa19XcXJLYUlyY2ZjWTg5SWZFaXJBd3dQY3BvVzFGcWpWZUpYa1NWakdxMzE0NzNKSUhQdDNienc0d1J4VUtTc1NxVFJPaXVfVmt6eW5seFBISU5DYjhXay1DLXFzeA?oc=5"
   },
   {
    "t": "[안전 이슈] 개인정보 유출 땐 기관장도 책임.. 공공부문 보안징계 세진다",
@@ -159,10 +171,16 @@
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NdWtwMHR1eXV6cXhKSUhVSXF6aC1HM3ZCT2FXWkhtVkd6TkJocjNjdHkxblkwQzd2NktRYTAyWDZjSHFpNWtUNDFudzZZa3hvN3poSHBHNkQyRDjSAWBBVV95cUxNMVQzMWFyYThtUGt2RmR6VF9jTUxLWFYyWUdWZkI0VXlDYU80TnFab0dRclA5cXRoZDVvWE82d2xhLVRaMlNURml5VDNfMDVjOXZCc3NQMDJKeXNzdFZva0M?oc=5"
   },
   {
+   "t": "이번 개인정보 유출 사고는 「모두의 창업」 공식 플랫폼을 통해 발생한 것이 아닙니다.",
+   "s": "대한민국 정책브리핑",
+   "d": "2026-11-19",
+   "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWEtQ0lfRmpmYmdFMVo5dDZDaHN2S19iVGdkbGl3WmVOMjBxWUQwS25LV2h1WGlGMnRtbFZHMkV6TUsycGp3YW9SRzE4MklsWEJsWVZIUGpRTTV4VW9hUmdFRlAwYlhPSkxaX2hVd1VpSGduUkZlZmJVbEo2MG1DVVYzTkl2a2ZZaXFPVEExdw?oc=5"
+  },
+  {
    "t": "저축은행 직원정보도 해킹 피해…외부 교육사이트서 유출",
    "s": "뉴시스",
    "d": "2026-11-19",
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aRG1YY0s3MGlLcmtFTkFZSEgzdG1BeTVCSld4WFVsS1dPUlVIbmVQQ1dvX0p4R05OWEhLUjFOeE85M3B3TzFjV1hJZkZfOWRPaWpUYTdkajBYX3lLUl9SRtIBeEFVX3lxTE96ZUhIWE1EVE1VdWgzckFMRUJIMDZTdEJMV2FJZ3J5SDBrLXh4b2VUNG82Z3l5X3N5Rm01OUtqUDdwR2NQYWdfSko0M01UQlE2bXhMVGVnRTVyUmFDcFFIeC1oSm0zVzhvUkhRVFBaNlN2SzFRN3ZTaw?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96ZUhIWE1EVE1VdWgzckFMRUJIMDZTdEJMV2FJZ3J5SDBrLXh4b2VUNG82Z3l5X3N5Rm01OUtqUDdwR2NQYWdfSko0M01UQlE2bXhMVGVnRTVyUmFDcFFIeC1oSm0zVzhvUkhRVFBaNlN2SzFRN3ZTa9IBeEFVX3lxTE96ZUhIWE1EVE1VdWgzckFMRUJIMDZTdEJMV2FJZ3J5SDBrLXh4b2VUNG82Z3l5X3N5Rm01OUtqUDdwR2NQYWdfSko0M01UQlE2bXhMVGVnRTVyUmFDcFFIeC1oSm0zVzhvUkhRVFBaNlN2SzFRN3ZTaw?oc=5"
   },
   {
    "t": "코인원은 개인정보유출 규모 '깜깜', 고팍스는 피해자 급증…거래소 신뢰 흔들",
@@ -219,28 +237,10 @@
    "u": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIMDNTX1BYUjVRWWdJTTRPeUJRd2VXd3diZ0xnaDlxZ01faFBoNHFYdTlsN3hoTWNVempFT1ZiUzB1dl9lTEpv?oc=5"
   },
   {
-   "t": "대구경북권 대학서 해킹 피해 잇따라…영남대서도 개인정보 유출",
-   "s": "연합뉴스",
-   "d": "2026-11-18",
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tczFDbHlleUMzdEVFYWJfV3hPT1lfVFNfRTZjanhPU3daZUl6bDJfUUVNd0JQbnpPbE5MQkhTRzhGamoxU21URVJ3ZlBDVGpiaml6WUtOZnlWRE3SAWBBVV95cUxPMGpzb2Z6YnhiSWVmLXFMd3lMUjB0TldBT1lkTzBXQ0QtekNuUi1fWFlocEVhQXdlN0xzNU5kdmdkVXliaWFpUGxsbG13WEMxZzh0dlBoWlktcm91SjFKXy0?oc=5"
-  },
-  {
    "t": "전주대 온라인 교육과정 서비스 해킹…18만건 개인정보 유출",
    "s": "연합뉴스",
    "d": "2026-11-18",
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lWjhIVVVZYi1KVU1SRk5VSEV3SG05YnU5SFB3YUZCd2ZCbUlySWlEZ2dRanplc2NlekRwU01MY0VSUFNaUGZ5Sk9VTHRFRTI1YTRXNjhKTDIxUEHSAWBBVV95cUxNbkhFbWRNemlLeHhFYjdSQ1BHRlVPSTdZWVo2eWpkY1ZBZWttSUx5UnBUQjJ2OE42QTVSZE9ZZ0c1cUtRNlBreE5OSlRZYVB1eHM1bzY3VlJkN0d5OGg4VU0?oc=5"
-  },
-  {
-   "t": "해킹 피해 눈덩이, 수익성은 악화...\"보안 강화하니 해커들 타깃\"",
-   "s": "뷰어스",
-   "d": "2026-11-18",
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PNEVERFVldV9YTU5rcDEtTkdFUnlxNEpZOWhjd1o1RmdFQm9jQmdxRndsQ2Q0czZ4a1pkTE50Y2JqR2t1UHNRa1Ntb3JzcHIyQjF0RHU2cnk?oc=5"
-  },
-  {
-   "t": "노란우산 36만명 개인정보 유출…개정법상 '대표자 책임' 적용되나",
-   "s": "녹색경제신문",
-   "d": "2026-11-18",
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZ2plekQxZkJYUUdvejZ2QWhHT3VmaVpKZm5oZWgzTnZXRjlNNTN2c1ctWUJTVWZOWnJIeHZtUUdtMHEtLU4wRUdCbDhaZE11Y2FVMmdyMWEtSGtZeXNlTnFaNlV3aG5N?oc=5"
   }
  ]
 }

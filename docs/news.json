@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-22T17:00:49.526Z",
+ "updated": "2026-11-22T20:59:13.396Z",
  "count": 40,
  "items": [
+  {
+   "t": "징벌적 과징금에도 민·관 막론 ‘개인정보유출 봇물’",
+   "s": "서울신문",
+   "d": "2026-11-23",
+   "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNzUwai1vMlA5MW83a1hOaS1TRkNwbW51SHdic1k0MDU1Z3djZ0dUaUQ4OGp6RFNfOUNUdTYzRE9KN3dkbXNfRlJOd1JISUFPR2l6SWxUOA?oc=5"
+  },
+  {
+   "t": "한전 152만명 개인정보 유출…주민번호·카드번호까지 포함",
+   "s": "주간조선",
+   "d": "2026-11-23",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGSkNUSXlLSFRzc2c5NzJuLWc3d2tFdF8tcXdLUHo3amhHTm1uM3cyclBjRTVzSlRxUUZzdDZISDcxRkhBU0I4N2Q5T2c3LUkyYjJ3MVlvbVEzMnNFYXpzYlVwb0FWdUJud1HSAW5BVV95cUxNMkZMaGpyU2J6dGlRTXF0UjdNM2RMbjI1di1wRXNENmxscFF6MjBjVHJSVzh6M1c0bHlvdlBpQll5eVZSSUQ2NXBrdlJXWkUwckQwV1lsQ2Z4dmdER3dRWDA4ZFFqUVI0ZmlfVUhKQQ?oc=5"
+  },
   {
    "t": "[단독 후속] 데일리시큐 19일 최초 보도한 한국전력 해킹, 152만 명 개인정보 유출로 확인…다크웹 게시물과 DB 유통 가능성 조사해야",
    "s": "데일리시큐",
@@ -9,10 +21,10 @@
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1c2l6eU9BRE9BNk1Bb2puOFFmeDZWdmkxZEVuZDAxNllJZjktYm1xMW5jdDVoQ1hsNGdoNmdwakZISTZRNnBGS2UxUmtjMFhwVnN6bzBoeS1URGtJWUVyQkxQZ202NHJvcjRuMQ?oc=5"
   },
   {
-   "t": "징벌적 과징금에도 민·관 막론 ‘개인정보유출 봇물’",
-   "s": "서울신문",
+   "t": "교육기관 잇단 개인정보 유출… 보안 관리 '도마 위'",
+   "s": "https://www.focus1.kr/",
    "d": "2026-11-22",
-   "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNzUwai1vMlA5MW83a1hOaS1TRkNwbW51SHdic1k0MDU1Z3djZ0dUaUQ4OGp6RFNfOUNUdTYzRE9KN3dkbXNfRlJOd1JISUFPR2l6SWxUOA?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjbjUxa05OOU4tOUpITVhaUGdwdWdxUnVydGlicEpxNlVSYVlrNzJ4c1NjcC1xQkhyd3ZOQl85bWI0UE02QmRqTGw1NVJ3enFaQ1lFNm1nenZXb3hSaHA1Q0QtNzRqdw?oc=5"
   },
   {
    "t": "한전, 개인정보 152만명분 유출…주민번호·계좌·카드정보 포함",
@@ -99,18 +111,6 @@
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13UG5aa3QzLU1tVWUzTktZQWlRQlQ0OWFKRWtWbm9iREJwX2V6VWxueE5xUnpCTkF2QnNVZ09iSF9jSUdlMHNQT1lCb2FyNWZ1cGVTekRMa1Vwdw?oc=5"
   },
   {
-   "t": "한전, 고객·조달업체 152만명 개인정보 유출…계좌·카드번호 털려",
-   "s": "지디넷코리아",
-   "d": "2026-11-22",
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oZ29nNWdiRm5Bb2FRcFFoMTN4RTdzZ1BxaWxYLVBlMzVKLUlXSVN6V0JsMUVqby1NeXdWLWVOX1Q1bUtfa2ZNd0UzeTN2TjN1QUlkU3l3?oc=5"
-  },
-  {
-   "t": "한전 전산시스템에서 수십만명 개인정보 유출…“책임 통감”",
-   "s": "기후에너지데이터뱅크",
-   "d": "2026-11-22",
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sNUVCWnUzdkxXaWtRczZrdFRTY2g0M3NuNnVEZ3RtZEVFZThHTzVmUG5ESkVUT0pvakJ6Tmh6ZDU0ZHNycTNIdG5nTDB6MUxLb19qUmFjX3lzWk9WM0E?oc=5"
-  },
-  {
    "t": "한전도 해킹당했다…65만명 주민번호·계좌·카드번호 유출",
    "s": "경향신문",
    "d": "2026-11-22",
@@ -129,6 +129,12 @@
    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVTg0SU9WRVJ0Vi1kNFY3azNwTVRwODNiYlM2Q3ZWamFBcUQ4VzRoeC1NSElZNTdZbEtMTVh5eGl3dzBvbGFPRUJ5bzhiWk1uUjB0TWlTQkVESHozWVNjaHZESEYtWUlybUJjStIBcEFVX3lxTFBRM2JiR2FSUFlmbmVsLTBvRXRLRS1XaFhDMGd0NVFXMVJIU24zZTIwS2g3TFZJdks4R3RpOUg1SnFBZ2lCdEVvMy14dFp2aWRDVVJxMnVPcVFzZlZTd3cyQTdkaUZ3bU5Ja01PQWRDZnY?oc=5"
   },
   {
+   "t": "한전, 고객 등 152만명 개인정보 유출‥주민·계좌번호도 포함",
+   "s": "MBC 뉴스",
+   "d": "2026-11-22",
+   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqNGllTTgwamlGVEpVR3pLbTBzUmsxRUhkamE1QldsNTZPa1EtelczREJCUTBvSWEzY3RaZ1owVHVDbFcxV21nckNwbUxaaU5qXzhuRXZQNXE4LVdVZDJjendtMkxqSW1yRzI1V1dVY1RKbFhm0gF0QVVfeXFMTkdYY1ZZTEFfVTQtQjBVRW40MGJVTTZIWnRPVVZxNTBlNVdXcjZOSHZ1NFJhanRZbUxXVEhZVkRueFNITFFXajQwa3l4a1RUYnpyYVJSU1cxbEE1V1NTVFBUenM4bGthZjRuM1d1R2dmRTJZQXE?oc=5"
+  },
+  {
    "t": "한전, 사이버 침해로 개인정보 152만여 명 유출…“국민께 사과”",
    "s": "BBS불교방송",
    "d": "2026-11-22",
@@ -139,6 +145,12 @@
    "s": "브릿지경제",
    "d": "2026-11-22",
    "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YTXFLNnN2VnBiWE1mT1JEUm5Fb21JUVU4VW5uQ1BkTjVobHN5a29UVmRZZ3psTmtSZ3htUFJSSk0telR2aFN1bDRhRjF2OGFYb3cwTG9vdjdLUQ?oc=5"
+  },
+  {
+   "t": "한전 전산시스템에서 수십만명 개인정보 유출…“책임 통감”",
+   "s": "에너지경제신문",
+   "d": "2026-11-22",
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fbnFhdkRuVmVBbjdhRkxiN0xiVFJCRUVvQThZM0xkNzNxU0VMUzNzeUJyR3VQQUlqT1RKSG8yRm1JZmVHdjZwbjJuRi1KQVB4c0toVU1aNzBaSk0?oc=5"
   },
   {
    "t": "주민·계좌·카드번호도 털렸다... 한전, 개인정보 150만건 유출",
@@ -229,18 +241,6 @@
    "s": "오늘경제",
    "d": "2026-11-22",
    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wRmhlTWQwS3BUNFZFZDlQRE9IOWh2WVJiOHRBVDlhUzdzdEZUUVBKVmVRdzZlMUJPUlQ3bmtsdmF5VFRYTFVvb21hcHFBLTgtaE9PbU94MXV0aEotSDlZbkxyQm1lVWtfVjdJc2M2eXRtMmc?oc=5"
-  },
-  {
-   "t": "경기도교육청, 2023년 27만명 성적정보 유출로 과태료…3년 만에 교원 개인정보 또 유출",
-   "s": "데일리시큐",
-   "d": "2026-11-21",
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITS1rbUFGUkxRWnlyOG1vX1ZtOUg4cXVhdzhKV1FBNVhtMGMxR05ydHM2c0s3aS1jR1V6ZzM0bTYxcjcwWFNTeVBRb1BtejhMcGNUV1pMODNMVjh2dEd1b0ZMMTlMRDdPSUlHWg?oc=5"
-  },
-  {
-   "t": "컬리 큐레이터 1만699명 개인정보 유출…김슬아 “피해액 전액 보상”",
-   "s": "뉴시안",
-   "d": "2026-11-21",
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50MEtRZlh1M1R0bXpwTlEtcjl6enFwcU05VzFYVmNMMkY5UGxVaEo2NkFFZk1fNUV6QXA3OTdiNFBzbldjQnVkeUR4dHN2dVEwaXpvUUxvNGFrMjl6enFiS1JCUUpkZXhzUFB6Mw?oc=5"
   }
  ]
 }

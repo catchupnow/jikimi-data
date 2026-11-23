@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:20:38.873Z",
+ "updated": "2026-11-23T21:07:15.163Z",
  "count": 40,
  "items": [
   {
@@ -15,16 +15,22 @@
    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGV2ZkQlJrSlllbW1MUTcxWlBPWEtSZzg5eEpxQTJVc0QyUE0xYlgzNkR4TUExZmdoNXNjY2hkUVJxOExIYkRhaURtanlQTTEyTmliZkFn?oc=5"
   },
   {
-   "t": "서울중앙지법 판결문 개인정보 유출…다른 법원은 안전한가",
-   "s": "데일리시큐",
-   "d": "2026-11-23",
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KRlVsOWVBdGFnUkZoRTZIdW9yOVJWbFRoclM4MENSdkNoUkNfMWk3Y3VBbmJ0ZXI0NExndlk3WktDZmhhalZGdVlzTmdBR25XaXh3eTAtcW4zWnVOLVFvNnkxa1U4cWg3VVByUg?oc=5"
+   "t": "한전·삼성증권도 해킹 피해…불안감 확산",
+   "s": "강원일보",
+   "d": "2026-11-24",
+   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5alhPVE9scGdnRDlCQnBHdXVhV2hmR2xvQUo0ZzFyZVUwMGVVZkJRWEFFMy1qQmNWZlV5S0hIZW9Dd1liSFpQd3ZGVW1lb1o3SmZVeUtEN0dlWEE?oc=5"
   },
   {
    "t": "롯데카드, 보안점검 빠뜨리고도 '100점'…297만명 유출에 과징금 누적 156억",
    "s": "https://www.ppss.kr/",
    "d": "2026-11-23",
    "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jeFBYZ2ozWHFPOXNtcjFIdTB0M3lOZjR0Ykg2aHBnUGpHVV9QRDJZN21tWXhReWFqZjUzZkQwczNwdWFTYnNSZGZVcnNDOTRvY3ZqR3lEMVBlUUhrZ2ZQMnNKNU8?oc=5"
+  },
+  {
+   "t": "EU 집행위 대규모 해킹 배후에 중국 의혹...개인정보 유출까지",
+   "s": "KBC광주방송",
+   "d": "2026-11-23",
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55UE9QMWFYQzJyT3JIbFRacmQ4V0luZHowQVItenJ2T0FKUHVHdlMtejdXTVI5eXVpOWlzQ2YzYkVDS0VNMzRCbTExbEhraFRMMDFkU1hLYlJyRF83YTNYMw?oc=5"
   },
   {
    "t": "[단독] 가사 돕는 홈서비스 앱도 뚫렸다…2만 8천 명 개인정보 유출",
@@ -195,6 +201,12 @@
    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wd1psZTdVUWlxakROY2tfVEpNSjRuLTlESG8xQXlPaF9SWjVZYWxXZmh5QUZadXNlQTR4WUdqbUlzMVRnRXR5b1lHaWFFbEFWZ3RRcFdwUG1MMS1hMVhMWA?oc=5"
   },
   {
+   "t": "HD현대로보틱스 정보 유출, 부서·직책도 유출됐다",
+   "s": "세이프타임즈",
+   "d": "2026-11-23",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMWZIamtaM3MwLU9vOW54NDg5dXFTaGpwd1U5RUZRd1dyV1NETEJ0S1lNTk9EUnBGXzVKZzBOU0FxWlZ6MWxyUXJpOXZ5Z2VXUTRTN0d2dzJseUlDWElMcXk1b3o0WTB2aVJUUVpiONIBc0FVX3lxTE8tdVZ3dXJnYWVMY085bHJjdHZqQW5IaHoxTm5FYmhzUnc3MWNvX0NuWERBSG5oQjJVZlE5ZnJKaWF0aHM2MFVjTGJCcnhBeDhGNTZfNDAtY19SbzhCcm5VcHV6QllDWExQXzNCMXdwSkFrWFE?oc=5"
+  },
+  {
    "t": "개인정보위, 한전 유출 조사 착수 ‘초동대응반’ 현장점검",
    "s": "보안뉴스",
    "d": "2026-11-23",
@@ -219,28 +231,16 @@
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KY1JJN0Y4VzdTZlRyUlVhbW1GUmtYRnpHTlkyalJXR3pHamFJQldBc0dndU1YbmZNTXFBZldhd1pmLWc0X1BJd1ZGTVlwbzQxczZZMGFCNkVBeWRSeFFaS00xOHBQMVBCeUlBUXN6THZmam8w0gF0QVVfeXFMTlNnLW9jaDFMZ01wdVhTUmxKZUVmbXlPbnF6czUzYVBJYmN1R2pQQnBaVVkzZkp5amgycmhnTlBCMGZKX1VfdG4waUhlTmJDOHM3Ym8yYTRhMDdqT1E2Z2I3RnZVRU5KYXVBQ2E1bjUteUtwelA?oc=5"
   },
   {
+   "t": "한전도 뚫렸다… 해킹으로 고객·기업 정보 152만 건 유출",
+   "s": "내외경제TV",
+   "d": "2026-11-23",
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xd3FWd3RJbWZ2MDdmT2JCM0VBbndwNk9mMnFqZ3c2Ni1rWklVU0N5WUlVbEI5eWNJd2k1NmU3c2dkSVZUcXRqX0k5dnBhcWo4WGdLVGF2TF9JNTVYXy01QVpPbV90b3FZVU44?oc=5"
+  },
+  {
    "t": "개보위, '152만명 개인정보 유출' 한전 조사 착수",
    "s": "연합뉴스",
    "d": "2026-11-23",
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zaXJVR1NYNkcwTFNDR2ppeDVJenkyem1IdFprbFNmTDZBNnB1R3VNUm53WFg1dldEcGZwUlR0ajhsNzRTTExXMkkwdWxuWE5wckdNaXFtS0E0TjTSAWBBVV95cUxOT0hsWGNRY3MzUGV0ZVJWMmpVWmE3cTlHOElvV2tzOHpzNFpkRXYzc2lFYzBCa09pOURBbmppTXBGdmpHRUc1ejlhWVJGRnRNcWlPNWdqeEIyRmE0eUJ3cnA?oc=5"
-  },
-  {
-   "t": "개보위, 한전 개인정보 유출 사고 조사 착수",
-   "s": "지디넷코리아",
-   "d": "2026-11-23",
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OaE5tejNuU2puSVR5Yk1FVEY1NGxCczhncG9UYTJJMFBzeEp6bUItWjBGbzRPTWRDSWtZSlNvdXlrdVZjb3NhMlJxYzkwN3ZnUXFhUjJR?oc=5"
-  },
-  {
-   "t": "컬리 개인정보 유출 '눈덩이'…직원까지 털렸는데 사업 규모는 비공개",
-   "s": "뷰어스",
-   "d": "2026-11-23",
-   "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HanF3elR3amtOUXdlMl9jSXlWY05ONVhVQklIUjEyQlVmTjhBOHFQUDdtU05XVzZlZnFlTUVfVnZwSlpnTko1Q0JZc2t4ZkFzRENsOGR0N0Y?oc=5"
-  },
-  {
-   "t": "개인정보위, 한전 152만명 유출사고 조사 착수",
-   "s": "디지털데일리",
-   "d": "2026-11-23",
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LVmdiVVNGbVZBV1l4bEtfblhuQnF6SWxzQ1RkWFJnc1dBdmxXUjVqQjhmRHdwYjU4S09Za0sxU09iYmUzX2k3OGp6MlVtRGhUVUREWWVrQ0V4V0ZjTE1EcGpn?oc=5"
   }
  ]
 }

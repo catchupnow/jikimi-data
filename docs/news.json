@@ -1,12 +1,162 @@
 {
- "updated": "2026-11-27T05:26:47.548Z",
+ "updated": "2026-11-27T09:28:57.541Z",
  "count": 40,
  "items": [
+  {
+   "t": "개인정보 유출신고 10월까지 1019건…긴급 대응체계 가동",
+   "s": "대한민국 정책브리핑",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONk1mbHY3V21TV25KZUhhLVBPQ2dWMkwtZmJVZjM2bU5sdUJ3MzIwc0EwaUhPQ0NVOXFKZ004aEJJQWlaaTVxX09weGlnajhnU19ZLWxjenVfU2xOY2dxdHhVa1dxQlFRWWNOb3ZzaE13em9fNjN3dGtpbDNtZ3AtbXNNMUJZcUh2eWc?oc=5"
+  },
+  {
+   "t": "티빙 개인정보 유출 보상안 논란…“적자 법인이라 형편에 맞췄다?”",
+   "s": "시사저널e",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pN2hURDRxV2V5NGVHamV4NjJxT2xMVWl5UTdDNE9ZeVFrT3JNcmVNOWFXVHRPYzNWejB5bU85YjM0RE1GZEZfUERGdnR2cnEwSTNudHhuTl96ZWhNdFRaYVBlaGxUd0U1TVUwUmNqSXFYNnBZSnfSAXZBVV95cUxNaTdoVEQ0cVdleTRlR2pleDYycU9sTFVpeVE3QzRPWXlRa09yTXJlTTlhV1R0T2MzVnoweW1POWIzNERNRmRGX1BERnZ0dnJxMEkzbnR4bk5femVoTXRUWmFQZWhsVHdFNU1VMFJjaklxWDZwWUp3?oc=5"
+  },
+  {
+   "t": "삼성증권 고객정보 유출 피해 더 있었다…8241명→1만2168명",
+   "s": "진일보 | 전남일보",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TWHVublJzWFpVcmxhekVTVUo2NzVFd0gtdzBoYU5GNUxkVWVjOVFlZHgxQmxMZkNGXzdaWFdSRWxDTDJMVXVoUTVoY0wxSTdHUncxZnFpdl9xdXlTMjBmeDJvVEZ4VU1EYkp5eEJINA?oc=5"
+  },
+  {
+   "t": "'해킹 피해' 삼성증권 고객 1만2168명으로 확대...3900명 추가 확인",
+   "s": "한국일보",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02TDhETktNZmg3VWg5UFVKd0pTbjM4LTN0RzhYOGVvZFhBZ3B5ajZJclJyT1BxVmgzb0FuWHhxZDFIWmtFSXkwaERETDZUdFNZNTZ5ckh5NUJjY0U1Y0lGTFgwZ2NSU0ZhNmhSVVRR0gFzQVVfeXFMT1dFa2FaSzVTQm5ZcXpoX05OSHFMdVljRG1UMm44dXZoRmJIMldlc3NGcTZ2RHpRUGxpMXRaRHBlenZweHhLVUhUX3hRdGRLMzlPRDZXU2RtNjhVak9vTkV1WUVSSnpEYS1zdmFQM3BmT255Yw?oc=5"
+  },
+  {
+   "t": "전북은행, 해킹 공격에 고객·직원 467명 개인정보 유출",
+   "s": "매일일보",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JMFpabHM4ZnhnS3JFR3FYQVVvVnRwRUJPcWU3eFNYbXJtZG5HQ0FpWDhnakRaZkdPeXV1YndhTzI4RVV5cFczZXdkNUtwUzF1U2RRS2RBUEhiNUNTQXpDdFQ2el8?oc=5"
+  },
+  {
+   "t": "올 개인정보 유출 신고 1019건, 작년의 두 배 넘어 '역대 최다'",
+   "s": "한국경제",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95dW05aXUyaHNEN0Z4RUQ0bDBhYmNldUxZRnJjQnJhTGJxRkZwbF82VWxTczlPdzJkcXlGYWhTbWY0NjdPbTBteWJuZThCQnp5RmJKQzFKNVN6UQ?oc=5"
+  },
+  {
+   "t": "삼성증권 해킹피해 확대 … 유출규모 1만2168명",
+   "s": "세이프타임즈",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kaFYwVlR0NWRtRlFsSnVnVWhYR3FOUEIxVjNvcDF3RWNZY3psZ1FKclQ2d25HeERFUkg4eDJBemJJQUl1U2tqR1VzcC1wblFmdzI4NmhhQkMybjlpN1NfMG40QzRwYUFESjR3ektOZ9IBc0FVX3lxTE8zVkZ0NXp5bHk0OG9mb2NNYmNRTm5KTlUwY1RzOGl5bEUwa3JsOVZMWFlGdnNRSzM5ZTFCVkZnd2l2NE52RnN5N3IwN3ZUdGFIeGdyeDgzUFJvS21OYk9tTGEyZFRZYkYtUjdZRld4RDE4QzA?oc=5"
+  },
+  {
+   "t": "개인정보 유출 10개월 만에 1019건…당국, 비상 점검 체계 가동",
+   "s": "아이티데일리",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXN1VOUU5YbTNkNGRidncyTEtQb2VWTzJMM1Y4V1dSRVhEZVk0MmNiLXYwcEhabzRVNjBvdm5tN3plZkY4ZlR3c1ozU2t4dUo0dnl4S1REQ1NGZ3AyNnJYVldkUnlRdDJC?oc=5"
+  },
+  {
+   "t": "삼성증권, 해킹 정보 유출 고객 늘었다...\"총 1만2168명\"",
+   "s": "데일리브리프",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FQlAzdm10LWwwQXlsVjJwZGs3UnJqbUhuWXl3eEFZckR3OEVlRWJnU19xc2hPQmJSaFFiWDhaNmpmNW92MGsxd3Azellmc3FQdzdyc200ckwxejlueTBMQlBTWDJoeENuLTRZdHd3?oc=5"
+  },
+  {
+   "t": "삼성증권, 개인정보 유출 3927명 추가 확인…해킹 피해 1만2000명 넘어",
+   "s": "전자신문",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aWEdjSzhwai1PdUh1Q1ZCOXZ6ZzlPWllSNkdLSVVFVFRHWG55OGIyZ2Y5UnpCOVRZRUNxMjdDUzFTZlRzVkhIYkt3VkRzdw?oc=5"
+  },
+  {
+   "t": "Sh수협은행도 해킹 피해…고객 54명 이름·주소·연락처 유출",
+   "s": "MTN 머니투데이방송",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUXRaUFZsVHBPU095RTBZcnRkbTN6XzVmUFZsbVJ0UHhvV01uUVZoc3I1cGVRLS1SOU1jMkVnMEdkZDVqeWNmVzhGRnJkcmN6WHNzR3RnSXhCTFBCX05J?oc=5"
+  },
+  {
+   "t": "\"쿠팡 개인정보 유출 1년, 책임진 곳 없다\"",
+   "s": "OhmyNews",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51S1A1VnJIQnUzdEszVGEzRjlWMTQzd240MkJCbmN5ckR2d2UxVzh1VWRXM1ozMVVRYkctMTlJcF96WGxFYndRZF9xLXhjQklfay1uTDhSTzE4cHlwR1JITXB4NFlGVjVQNTJSMDhhOVZPNlVyR3Ew?oc=5"
+  },
+  {
+   "t": "Sh수협은행, 해킹 공격에 고객 54명 개인정보 유출…금융권 피해 확산",
+   "s": "이지경제",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLR1pGNkZ4NHZGZkxLd1NOUTRmTmNjd09vMkhLREtHam52Z1dSQUdQMTliS3hKS3NJS3BnOEVwN2hCMlJtXzVSZFBjemJwN2Z3Tkx0OU5rUzJBdllVdDQ3TG8yRERtdnJ2RHhZZUJn?oc=5"
+  },
+  {
+   "t": "AI 기반 해킹 확산에 올해 개인정보유출 신고 전년 2배 훌쩍",
+   "s": "AI타임스",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10T1I4SzZWUUFqYkZRYkRoejN5V3h3Y0FOS2F0SzBWXzZnb1ZFRmRkbG9aN2hDY0FRVzJ6am9mUzBXLXBYWFk3MTFGcXVQQ3NKb2ZGSTJaTTJxdGgxb3B1VXl1OFFZRndxZXc?oc=5"
+  },
+  {
+   "t": "개인정보 유출 10개월간 1,019건…AI 해킹 확산에 개인정보위 긴급대응 체계 가동",
+   "s": "데일리시큐",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40R3pfQWJrZmRnakctUm9ONFVWM3Eyb3FwYlZSRmpZOF9QT1JoZ1YyYnBMbTU3VGgzcjI0NUotdkUySWRrWGtoNzhaR2FxSVVXYWhoRm5LU1lnalJEdVdNVC1jb19mTXI4bmRPTg?oc=5"
+  },
+  {
+   "t": "Sh수협은행 해킹 사태로 고객정보 유출…은행권 5번째 피해",
+   "s": "뉴스투데이",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tMEdyQWNzc25FZkhkNHlkZUxSWGtmYnp5UVgwdTlHcFJPS0J2bC1mYWRTT2FoMUlqTXR3UVJuSXhfdUhSWHRHa25WZGY1S2tuanlSRWh5N1dPNkdzdWc?oc=5"
+  },
+  {
+   "t": "금융권 해킹 두 달째…은행·저축은행 각각 6곳 피해",
+   "s": "뉴스웍스",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fV2dFQzZYaGY5NDhpNjZhV3dRM0ZTeVhKT3ZoSE1QUXZjUWhnRE9aLUM1U2ptSHhicmZoOERJeUU1cE1CZ1RDeUFKVEpKVXpRcngtSkd1dTl2eUtHbERCLUtSa1hTOXVlcDAzdElSQdIBc0FVX3lxTFBKMXk5MVNrM1lfLUVTeF92SThYUzlIX0NzcHFaM2NOYk0tenNBYnJ2bTBDN1E5d1JtVHBwOWxDeFFia0lzUGtmY1dWOHl0emtWb05ybUxRT2M0cWUwc1hMZ2VteDQzNFdlWUtFRjdXZi1OZEk?oc=5"
+  },
+  {
+   "t": "비밀번호 관리 업체도 털렸다…1패스워드, 고객 정보·소스코드 유출",
+   "s": "디일렉",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mU1RSOUYtRC03dk81Q3RWNk5pZEZLY21pelh2YmdtQm9Vd1JKTnRJcDhwWjhVV0djMm1oV0syNWJiZ1UwQml5MVJzVlVCNXA3VllGLUZQSlhsREdxRE1idU9EcXNGQQ?oc=5"
+  },
+  {
+   "t": "과학기술인공제회 해킹…주민번호·직장·직급까지 회원정보 21만건 유출",
+   "s": "경향신문",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZeDVYZk1DeWhsMzY0R0V3YlFTWDBWeEtTR0hfUVVrc2ROY1Y1WWFxREtFS2k2LWkyM3o1eHZhNm80WkJZOS1WZjBIMXVlTTVPSTZQaXdELTlVd9IBX0FVX3lxTFB2aEk2dGN4UGYtT2ZMQ0M0YmlMMXZpU0VCN3dMMnlITWs1OWlUZnN3ZWkwZDVmOWEwaGhyUEVnRF9NOTJKanZlYTh0V1ItRDhTQlUzT1NnZDhsVUN4SHZ3?oc=5"
+  },
+  {
+   "t": "수협은행, 고객 54명 정보 유출…주야간 감시체계 가동",
+   "s": "더팩트",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wNEJNQ3hBQktZc1VLQ0dENmktMEVPNVJ0cUxfVEFJODA2V20zRF9Ycko1YlFHZFFDQWttVTFpQ1hnZUlRY1NfTWdjRGRJNEpwVG4tRtIBVEFVX3lxTE8wNEJNQ3hBQktZc1VLQ0dENmktMEVPNVJ0cUxfVEFJODA2V20zRF9Ycko1YlFHZFFDQWttVTFpQ1hnZUlRY1NfTWdjRGRJNEpwVG4tRg?oc=5"
+  },
+  {
+   "t": "Sh수협은행, 해킹에 고객 54명 정보유출…은행권 피해 5곳으로 늘어",
+   "s": "비욘드포스트",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JMTZnZC00elgwYzM5QTlHUk1OV0tvNDd2aEpTaUlTSlNDOE5fdDNZSFpSY1hXS2FmOXY2UGdZaXczYXhCNS1QbzZOS2xJc3Q5OXFtRExqY3l2MDR4N1o2eFNKYU41UEhsVnE3VVBPaDdKZ2p6SGc4S3FFbU8?oc=5"
+  },
+  {
+   "t": "[영상] 티빙 개인정보 유출 보상안 실효성 논란···이게 최선일까",
+   "s": "시사저널e",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ITHFnRWk5cFdsZDBOR2RuZzRfZmdIOG1QdVd0ekpORGFPSEZZazd0bHZ4X2xKM1lScDc0VFVWb1R2ZzVOVm92bTVTUU5PYzlNWDk2VkJxVllnb1dWQjRSX2dNc0xQQ2lxTFRyVGJfeWdmd9IBdkFVX3lxTE5tXzdLMV9ZRkRhZGFNWDZaYWN5Mzl4Y2VCUXBtaWR5dnZuVG92bTM5bGF2LU5OYWxhNjNha2R0T0ZERHlYN1RwUU5XRmRBRlVfeUtVRnpXVm82NXVRV1otY09WVGR1b3JFMFR5OXZrUWZpM0JBM0E?oc=5"
+  },
   {
    "t": "올해 개인정보 유출신고, 작년 건수 2배 넘어",
    "s": "부산일보",
    "d": "2026-11-27",
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NUk1xZkVfT0Z5SEdFNTktMHlzcl9sOWY1WjdRMkNyZWo3ODlfN0drMThRT1FpMEZfaG92eTIxM3RITF9zYmlfMWtqN2ZOVXVQQ3ZndEdJY1MybGxXS3BKdWFTa1JwSUJSeHJMMmNaMWw5R2li?oc=5"
+  },
+  {
+   "t": "수협은행, 해킹에 고객 54명 개인정보 유출…'피해신고센터 마련'",
+   "s": "한국아이닷컴",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MbVQtWC15bzF4MmN3UG9XUlVSelVUTzJhMTloR2syOTRLcFpwdllwTTlfWW1pRHE3endIOTNlb0JpbE9XNE1oNjRmejJkcG4tRWIyREtkNmJxUGNLbVNiVV9SRnBSNFFtVnRGa0ptVdIBb0FVX3lxTE5MbVQtWC15bzF4MmN3UG9XUlVSelVUTzJhMTloR2syOTRLcFpwdllwTTlfWW1pRHE3endIOTNlb0JpbE9XNE1oNjRmejJkcG4tRWIyREtkNmJxUGNLbVNiVV9SRnBSNFFtVnRGa0ptVQ?oc=5"
+  },
+  {
+   "t": "개인정보 유출 신고 벌써 지난해 2.3배…정부 긴급 대응",
+   "s": "서울경제",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GYV91WWxueVNsU1FYSFJTd3oxd1plSmVuSTk3SHJiVGE2emJrS3U1NGRXTWFYT0lKcWgzQTBudy1LeGRha0N3alNPcmJGekU4TFHSAVNBVV95cUxOaGZaM0hwSWwwMUlndWRJcUdCcG5Jd1dwRW1LeHlfZWVBN193Y29oUWdIUklWZnFtbGE3cGdITUw1OGNpMFkwMWxaUG00OGhpN2EwYw?oc=5"
+  },
+  {
+   "t": "따릉이 개인정보 유출 보상 이용권, 오늘 밤 12시 전까지 안 고르면 소멸",
+   "s": "펜앤마이크",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yOVp3Zi1QVzdJbDl5NExmRFkweWVBemRVYlVxV0VWakVCYkZHMVViVGxnWDVsTnpMZndnSF9zY0ptUGduQm1pek5CZFhoTmZBdThmdVZ5Z3ZKVWZmcnBJeUFHN0tybFNDeW130gFvQVVfeXFMUEQwRmw1V05xUjU4NXJ2eUswWGpWZkc1V3ZxajhhWExTSXpUOGFfekNYRzRDUHVoRTlzRWJsREUyQXdWM2x3cmVwbWZ4cFVwaEluZlZ6WXpUNGZNS0ZGQXlxd1lJVFVPODRWZHEwTmpR?oc=5"
   },
   {
    "t": "수협은행도 고객 54명 개인정보 유출, 금융권 침해사고 잇따라",
@@ -33,22 +183,16 @@
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yNWxJcEpkWWlnNXQ5REdsbXp2Wkdla19Demlib0RKdnJwMlpWYmFmSFowV2ZsdUp6UkpUeFlBZ1pLc2V1YmpUS1Nwc2hmOTRZc0JaMEdSOUVkNjdDSU1BYzZmY2xZdEE?oc=5"
   },
   {
-   "t": "2026 해킹·개인정보 유출 일지",
-   "s": "콕스뉴스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsN2phZVdidjNhMWhwSXZoeVZnOXdEcm9WcmFJWjRLRUdTd3FOWWV0LVcyTDZSb2hOek1FVEtJMXBRc3Z6UXFIRE1VMFlfckd3aFBnYkg4Z2lFd0FjSEZ1b2QzeTFVWG1fYlE?oc=5"
-  },
-  {
    "t": "과학기술인공제회도 해킹당했다… 회원 정보 21만 건 유출",
    "s": "조선일보",
    "d": "2026-11-27",
    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZmJOQU82d2ZJOU9EamV6QWtVeHQtTllHaUswTE9OZGV2V0VXbEhWWm4zcDhJdkVQVmFJaEwtMmY3eW1STXh2c0NlTkU0UUJaVW85TkkxUFh2emU1M2pKSzJCYS1YUThUd1BmYldXREZtYUJHYjJyeW5zQ0d5NEtPZDNPMA?oc=5"
   },
   {
-   "t": "쿠팡 대규모 개인정보 유출 1년…수사·피해 구제 어떻게? [뉴스in뉴스]",
-   "s": "KBS 뉴스",
+   "t": "2026 해킹·개인정보 유출 일지",
+   "s": "콕스뉴스",
    "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tM1IwVl9pWWdGalIzX2RCZml0QUpIRF81Q1VlN0N3R1lCcC1kSjBrQlVpOUxYZXZ0WWlKRnRJeVliRXNyTnVaZzVMUlFDRTU0U00zWXhfMTZKSE0?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsN2phZVdidjNhMWhwSXZoeVZnOXdEcm9WcmFJWjRLRUdTd3FOWWV0LVcyTDZSb2hOek1FVEtJMXBRc3Z6UXFIRE1VMFlfckd3aFBnYkg4Z2lFd0FjSEZ1b2QzeTFVWG1fYlE?oc=5"
   },
   {
    "t": "정보유출 과징금 올려놓고… 中企 보안지원 예산 2023→2026년 64% ↓",
@@ -57,10 +201,22 @@
    "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QTmVHU2lrRTdSMWNwdUM2elNKQjFnRVNQWEVZc2luOE5WakZtSVRCbjlETU9QRy1Tc3lzRjFfTGxJeW4wdWlBeFh3Rmo2bzVL?oc=5"
   },
   {
-   "t": "수협은행, 해킹에 고객 54명 개인정보 유출…'피해신고센터 마련'",
-   "s": "데일리한국",
+   "t": "금융권 연쇄 해킹 도미노…Sh수협은행 고객 54명 대출·신용정보 유출",
+   "s": "메디컬투데이",
    "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wXzlWOVBWY3djV0tsQlNpS2UxR28zWGRXdW9OYVZtOU9RcFRYT3ljY0w0amRENDhXcUhJYnduNWRSMWs0c0JDdHloWGtCNkstMHdzd091S1p2OWhpRUJzQU52SnlYd1NwTTV5bjFVTdIBc0FVX3lxTE1YY3VLX3ZfUkNnMnFaOHZUSV9Oa05QdGV6dVVRYmVsb3Q1VERtWkJwWmZnSXVMa3B2Q2VFbnh1VVB0MEdfWXJQMzZTaHFBdU5zS2JxRzFCM1h6eFIxUm4xYU9kWElxZ0RpVXpqemI0cGg0VzA?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91TUg4eG5QZ0dCcGNjeVpseEltZmw1YzJrRl8yM1dTVTlwWGltM2pxbmxCV2w4OFZhRnZUQ3Ruc1BxVlpMMUstelhmSzlJYkhBenFQNmdKazZvVDdrc0RoU2hBdjdDdFA5bFljQQ?oc=5"
+  },
+  {
+   "t": "[단독]이나인페이 해킹, 25억원 탈취 “최대 규모”",
+   "s": "전자신문",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEdXZTVmg0WnJlV3dSSVpnRHFiWlBjenhLWHUxajJ2dThGMHFZY0M2ZlFPRWdZZ18tbkdiY29OZ0ZLelVvVGpVeWxJTEtJUQ?oc=5"
+  },
+  {
+   "t": "수협은행도 해킹 피해…고객 54명 대출·신용정보 유출",
+   "s": "핀포인트뉴스",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83OXdZZTl2S2t0X2tuVWpaeXZSVk1rWDd5emVKV2ZiSmJ2a1hfZzEwU3hVVjZXaWpMbThCc1c5WjlpNGotSTVjNDBBTnNPblpkZlZnSU1RWDBJZUg0VVMyeUNaVmcyUEdYbV9lbjlEZlI1QjV1VnFR0gF3QVVfeXFMTzc5d1llOXZLa3Rfa25Valp5dlJWTWtYN3l6ZUpXZmJKYnZrWF9nMTBTeFVWNldpakxtOEJzVzlaOWk0ai1JNWM0MEFOc09uWmRmVmdJTVFYMEllSDRVUzJ5Q1pWZzJQR1htX2VuOURmUjVCNXVWcVE?oc=5"
   },
   {
    "t": "과학기술인공제회 해킹‥사실상 모든 회원 개인정보 유출",
@@ -69,178 +225,22 @@
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PU0ttQ3g2STdwWUJpT1dKbkRzTGtGc3NRQlBxRXhzV3VjSDJMV0ZkVnp3TTFvWnJtQk5RZk5iRjh6aVRUOGtIV3d5ZWx4X2h2aEltLWJSUjZaT0tMNW1BY0NYM1VDSFVUWGpocEY3RWViN1RG0gF0QVVfeXFMTU9TS21DeDZJN3BZQmlPV0puRHNMa0Zzc1FCUHFFeHNXdWNIMkxXRmRWendNMW9acm1CTlFmTmJGOHppVFQ4a0hXd3llbHhfaHZoSW0tYlJSNlpPS0w1bUFjQ1gzVUNIVVRYamhwRjdFZWI3VEY?oc=5"
   },
   {
-   "t": "수협은행도 해킹 피해…고객 54명 대출·신용정보 유출",
-   "s": "핀포인트뉴스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zTnN2U29PdlhWNWhzaGVVN01xRXlVX3ZsZXRwajBqNU1UX3A2bFJHOFptZGxSSUJNcTB2QjlrUlNqRm02ZGdXRk9FOUl4bWs2V2kwc0xLWklRVWhKUFdMZG5yUEs4TGtEVF9fWHhnT2tNc2fSAXdBVV95cUxPNzl3WWU5dktrdF9rblVqWnl2UlZNa1g3eXplSldmYkpidmtYX2cxMFN4VVY2V2lqTG04QnNXOVo5aTRqLUk1YzQwQU5zT25aZGZWZ0lNUVgwSWVINFVTMnlDWlZnMlBHWG1fZW45RGZSNUI1dVZxUQ?oc=5"
-  },
-  {
    "t": "수협은행도 해킹 사고 … 고객 54명 개인정보 유출",
    "s": "뉴데일리 경제",
    "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FWktWeEtMejhDZnQ4YXNSRWpPTDVqUFFRcFFCU2RmUlBJT0RNNmZUdjd6aFNBWlplUTNtdTN4RlZCckgtd0Ewb01yVnBHZWs3QTFDTTlLYTdkUGRlTWp3ZVVTeURLb25sV0NtWkVzMmhxMW1jZ2ZyZGlYa9IBgAFBVV95cUxNb25aUXFra0VoZWhWOExaNnk3QW13dkl4amx0LVRYMkgyRUwxaEpuMlA1NXlmY2FMTkRobTlUMll1NlpXOWhfS2hNZ2M1Wm1UTzFtMnh6bDlrSzhsRDlrMkhSeUJITVlCUDloS2JnZ2dFaE1ibGIxWkkydGtBeXFkWg?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb25aUXFra0VoZWhWOExaNnk3QW13dkl4amx0LVRYMkgyRUwxaEpuMlA1NXlmY2FMTkRobTlUMll1NlpXOWhfS2hNZ2M1Wm1UTzFtMnh6bDlrSzhsRDlrMkhSeUJITVlCUDloS2JnZ2dFaE1ibGIxWkkydGtBeXFkWtIBgAFBVV95cUxNb25aUXFra0VoZWhWOExaNnk3QW13dkl4amx0LVRYMkgyRUwxaEpuMlA1NXlmY2FMTkRobTlUMll1NlpXOWhfS2hNZ2M1Wm1UTzFtMnh6bDlrSzhsRDlrMkhSeUJITVlCUDloS2JnZ2dFaE1ibGIxWkkydGtBeXFkWg?oc=5"
+  },
+  {
+   "t": "올해 개인정보 유출 작년 2배 넘겼다 … 개인정보위, 긴급 대응 체계 가동",
+   "s": "뉴데일리 경제",
+   "d": "2026-11-27",
+   "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5UmJTc0d2SDZCc3loVFNDT2hFMS1IeVpDQndOMGRKSkxoVXZZcWxJV1l5RVpEWE9hTlQzY0RTZ1FXNzUyRmtfRWVpVWh5NzVVZDl5cWJwWDZ6YWd3cF9XWFV0RFhPaTJWZWNyVmVudndWVDMweTlldzM0TdIBgAFBVV95cUxNbXA3ejVFMnZlM202a04zTERuS3ZLWUlFT1dJdGdXbzd6cFlqOG16N2hLU1ZkbkFSR2dWWU9mVXNoUC01d2ttQXRTRTA5bC14NlRSNWtQMmtHdWtGTWl4NHJDQzZPbnN6ZFVoMUljcGhPSDVkb1JlSjBQcC01aGZ6aw?oc=5"
   },
   {
    "t": "올해 개인정보 유출 작년 2배‥10월까지 1천 건 넘어",
    "s": "MBC 뉴스",
    "d": "2026-11-27",
    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hVHR4SXVlUU42MUNiU2hQYUZZMzgyekxhNU4wZXJpQ29NbFRmUFN4SldwWmtoMUFfdlI0dlBrZFp5RGNMOURCODFDMjNHYjdLWXNsb1ZxNGxTd2xFNkFKbmk3WndmVG5SeEY2VXVVMUFYUzBN0gF0QVVfeXFMTmFUdHhJdWVRTjYxQ2JTaFBhRlkzODJ6TGE1TjBlcmlDb01sVGZQU3hKV3Baa2gxQV92UjR2UGtkWnlEY0w5REI4MUMyM0diN0tZc2xvVnE0bFN3bEU2QUpuaTdad2ZUblJ4RjZVdVUxQVhTME0?oc=5"
-  },
-  {
-   "t": "Sh수협은행도 해킹 피해…고객 54명 개인정보 유출",
-   "s": "뉴시안",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEYXJCYU13UEw3N1QwRnRxWUhqMFFaWktiTDl5UDE0NEphOENWckJ4T1gwRE56aHZ2MnNEUWxVRHpONUFMQmxJZ2p6QWR1dTFJa3RzLXY4bExMd3JsZ21hRmYzaVBQZ1RaZi14Ng?oc=5"
-  },
-  {
-   "t": "올해 개인정보 유출 신고 전년의 2.3배…개인정보위, 긴급 대응 체계 가동",
-   "s": "한겨레",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NUFZWc2JyQ0xzdnFYanZ4VVF3SnhTZkpOd1d5VEtlN3lBOVpzRU5LNWNRVmFBUEEyejNwMjZHYWVZcDRJd1h0TFZ0YUp1VmtNbDFtZHpVSEFOTnFyMHRRVQ?oc=5"
-  },
-  {
-   "t": "AI로 낮아진 해킹 문턱…올해 개인정보 유출 신고 1000건 넘어",
-   "s": "진일보 | 전남일보",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jWnhXUGxGejVZOG9zcGU5N0plUEk3SUxMWHVDQkZvZ3lfSHdLR3VzYTE4R2ZxVUdUZTIwQkwyTTZXenljSjBPcFdoQzlhQmpjV0xqSDYwTzdzdTlXRFFtTmZWT0JmU1dSUTc5aGVVOA?oc=5"
-  },
-  {
-   "t": "수협은행도 해킹 뚫렸다…고객 54명 개인정보 유출",
-   "s": "매일일보",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xakhCNlFMNFpnMDFCSWlWNW8wUXdzakVTTnVWdTE0Q0lKVzM1QXhpaWc2ZHBpUHpWS2YwQnZxT0t6MFkwTXlzbUFXNl9lWFpDVmJkRXlQUXlOaFRLVnVuVXROdkk?oc=5"
-  },
-  {
-   "t": "개인정보 유출신고 벌써 작년 2배 넘어…개보위, 긴급대응 돌입",
-   "s": "연합뉴스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3UDJCdDJ4NF9CZkVPWnZud25vRUhPOUFYTkY4Ym8tZUQzUTQ3cWEtUVh6a25nWW9NM0htaGtvMnlXaUJ5MG52eENrUnZqellyU3h4Mi1XbGZQc3fSAWBBVV95cUxNTkRvbzk0TDlFUDg5TktUd3k3eGdDc2lZc0hVREZySHRlQ2RpUjJfZi1fYl9yWWJiYTlBMThDTm82Nm9RMWJlSlV2enVtYlp6Zi1ESXJiemdDNTlHU3Atc0c?oc=5"
-  },
-  {
-   "t": "개인정보위, 유출사고 긴급 대응체계 가동…3개월 집중점검",
-   "s": "전자신문",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aNjFsQnFhY2NjTWtlZFBpc295NFBaTHhrQm9DaWpTQWE4cEhXZGVWUW1sc1BXZ2hkd0tsbVlZdDhxYXY0YWNEQTdkRm9vQQ?oc=5"
-  },
-  {
-   "t": "개보위 “개인정보 유출 신고 건수 전년比 3배↑…관리체계 원점 재검토”",
-   "s": "디지털데일리",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2c2VmenNCdFQ2MTZOeFdQaG9SbTJtMTNoX214d25uZmRRWEtFOW1SUWlFSlRZVkJROTJSd0lyT1lpYkhRc3hKTjJPdzB5cjlZOXV4WVlBa3o1T1pjdkZYcXhNUnc?oc=5"
-  },
-  {
-   "t": "Sh수협은행, 해킹 공격에 고객 54명 정보 유출",
-   "s": "전자신문",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQaTcyVjQwc1VabDFEeGJFWE9WcWJtYWpFc3EwYTYtUXd1M0pfZmgxa1h0SzlyMWduZ0hqTXpSMmdndEltZ0hwZFRQejdKQQ?oc=5"
-  },
-  {
-   "t": "20만 과학기술인 개인정보 유출…공제회 전 회원 피해 추정(종합)",
-   "s": "연합뉴스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fMUhONENFR0RaTkhDaHl6cnZhSWVRMTNfcl81eUNUaU56b0tRRnhjc2tfVkp5R2FNMkRlU0R1Q0pjSHFJek9IeEZaelU5ZUtQUm5BTUxXd3p3MDdzTGVkNNIBYEFVX3lxTE5fMUhONENFR0RaTkhDaHl6cnZhSWVRMTNfcl81eUNUaU56b0tRRnhjc2tfVkp5R2FNMkRlU0R1Q0pjSHFJek9IeEZaelU5ZUtQUm5BTUxXd3p3MDdzTGVkNA?oc=5"
-  },
-  {
-   "t": "수협은행도 해킹…고객 54명 정보 유출",
-   "s": "쿠키뉴스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yakw2RDZWZXU1ZHJ0RExTeWZfWDZBMGE0SXU0d2hNTzF4eDFPeGZwRkVpZ1YtNWJwY2JXMnpMMWs3RzFLY3djcldCaTZsWFpxbHp4YmE5b053X1UzWWYxdDlJNA?oc=5"
-  },
-  {
-   "t": "올리브영 해킹...직원·고객 790명 개인정보 유출",
-   "s": "오피니언뉴스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3a1VuODFIUjRJdGdBdFJoeExkaFhFUjZVbFpFSTA0MlFvdWNlQ290ekRBVVJsR2Y5ckpRdy1ZVXRUNFhqUmJWUmhoS0tFWWhaOTZXZWZOR1F4cHdUOHN3S1AtaFJQYkl0ekZsVFdleFhJdw?oc=5"
-  },
-  {
-   "t": "Sh수협은행도 해킹 사고…고객 54명 개인정보 유출",
-   "s": "디지털데일리",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vOGt2azRJRERfeFNvbUFjTGJTZWZrNkszTTZlUXJyWkppT0ZzMENYcFhnTTJxTGNrV0Zwb283MVdhR0x4Tll0Q2N6V2NKTTRvQ2hVWXJsZ2djN0JYWjl5V2xKMnI?oc=5"
-  },
-  {
-   "t": "'3만8490명' 개인정보 유출 대신증권…보상안 구체화, 현금 1만원·보험 지원",
-   "s": "https://www.ppss.kr/",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4ZzM0aTI0Q1ZSdzB4MGQxRzZnbTNnRzdVZ3NqUUJ2SmxlSVF3YlFrOFg2YS1hVE5YUjdvSVNwVndTeHk0ZWM1MnEtRDJvRHJSMDZOSVJlQlBJT1NKaHhYNVk5aW0?oc=5"
-  },
-  {
-   "t": "과학기술인공제회 해킹…회원 주민번호·비밀번호 등 개인정보 유출",
-   "s": "전자신문",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsY1hLeERnVkQtM0MwRUpwcE4xTEEyVDE5QnF2cC14TXpTR1laMkpjR0JIZGFZZl9ldjRxT0l1UjY3TDZEWHdFc1NDZFJDQQ?oc=5"
-  },
-  {
-   "t": "[N2 포커스] 은행도 정부기관도 해킹당하는 시대… 내 돈 맡겨도 될까",
-   "s": "뉴스투데이",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iTTVpVXVSV3poNHpmLU0tOE1QMTdsMGxRcmk3c2kwUGVXSGVBVk5ucDVJV0hxQU9qbFc2anFtMnpfUFdpUk9aUXNfQmhDRzhsRHI2eXlkYzVJQnkzQlE?oc=5"
-  },
-  {
-   "t": "과기공제회, 사이버 침해사고로 주민번호 등 개인정보 유출",
-   "s": "연합뉴스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44dkRnNDR1Tm9ybFZXT0R2TEpwdnBac3R1VWdSVzZQMUtCVkh2WFpvVzYzMndkODhUTXdIQ0tzeTRNUE0waVdfMUNvNEIyYl8wOXJzYXZQTmxReVHSAWBBVV95cUxPemJLUGlSTzE0SGthUENwQmxwT3RaQnF4dERYVUlBczk5Z0RTNUNYZUVpbzhRUXBzdmsxYmNqeG1hUVZ5NjNJbGF3RVliRjZvN1V1dEtMSzhIVzVvNjQySGg?oc=5"
-  },
-  {
-   "t": "수협은행, 해킹으로 고객 56명 정보 유출",
-   "s": "데일리브리프",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rSG9MVjlhWXFrZ2tqRDdpaUt6aGE2N3JwUkZoNU9HOHlERWtidGVvNGlmdmEyZk1vUDZWbEc2NXBiMW12NE85YTd1N0tEY1RmRzVsdFJRT3JaT1hIVGJoRG5XVGhXaURzemhJZ0xR?oc=5"
-  },
-  {
-   "t": "수협은행도 해킹 피해…고객 54명 개인정보 유출",
-   "s": "아시아투데이",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sRXJfQlJnU3ZEcUJfQ1dHeGtOS0M0YXdWRUFKUTV0ZjVnclBHa0lTVzNMY3YydEoyNzE3Z1RfRmEtMXZDQTVCaHJnNzhnYk4tSDhZWmhBcGJJRUttMWd6VjFMU3RKZVpGeEtLX2pn?oc=5"
-  },
-  {
-   "t": "수협은행 해킹에 고객 54명 정보 유출…금융권 피해 은행 5곳",
-   "s": "뉴스토피아",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQ2xLRFp5RTBOQlFUa05oeDliRUlWZmRPbjQ4NHZoUzhmT0VkSU11N3ZNd2k4S2Y3UlNQWDJHRzdTUEZHTV9TR2xHUXZxRGY0TDRJNjNMWF9Ka2ljN2pJNzNHc3hyRVhtRFJUbA?oc=5"
-  },
-  {
-   "t": "\"공제회도 뚫렸다\"…과기공, 해킹 공격에 개인 정보 유출",
-   "s": "연합인포맥스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQnN5TGVrRmtfZnd0MzlxeGdzXzF2VmNuTWc1dGtQb0FXcHFkMThuazQxX3VNbmdHTUgyQWtTSFdkTjd5OG55YTBZQ0NRd0g2VmtEUTJyazJqQkFnMEJydUxLRDA5UXRMZ19kNVdEWE4?oc=5"
-  },
-  {
-   "t": "수협은행, 해킹으로 고객 54명 정보 유출…금감원 보고",
-   "s": "인더스트리뉴스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjX1BCdDdKSE44cXZrYUFWOVdseW91aXZhQWJLMzZwSmtub01ubEtxUmNnQ2lhRC1LaDZ0cHB6aG1IWDU0OFZQUnBzWjN6cU1sM1pha0theExKaW8weVZqTk9OXzR0ekcxRDdHU0lOQ3hOZw?oc=5"
-  },
-  {
-   "t": "Sh수협은행, 해킹으로 고객 54명 개인정보 유출…\"침해사고 경로 파악 중\"",
-   "s": "뉴시스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzOXRWaGpjN21xM2NONC1YM2dpWUVVVG5ncUExRFhVTTg3WVVWVk9ReTdPTXQ5SlA0Z0g4bkZtSEl3MmJyb3N0NHA2bkg5c3R0YUl1WUs1dWxPcjJRbjJINtIBeEFVX3lxTE5OblN3eXprV2lLd01zRXViU0pTWnVERWFESlB5ajhMVXhzM25hZ2xBZDZpRXhvWl93V2xwOHJtRnAwd2FDeERjcU9XYS1YVG5TMFJ5WmQtVlVGQW5HaW9CemFFQVJqN2pkMC0yVUVaT3VuenFGV3JUdQ?oc=5"
-  },
-  {
-   "t": "CJ올리브영, 외부 해킹에 개인정보 유출",
-   "s": "신아일보",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83YzBQT3hwN3paMTZSMXJaakQyRnNjUG5zeDRFckFkeVVLOWpvNjJvNWR6YjNXM3VBWTdLWkpHUGE1NUk3eDJSUDZPOE9WTnQ0bXBkZzdPOGlzMWtEUVpVR1pnNEVYSjFZb3Z3N29HMks?oc=5"
-  },
-  {
-   "t": "Sh수협은행, 해킹으로 고객 54명 개인정보 유출",
-   "s": "파이낸셜포스트",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxczJlOW14LTUwelZEanV1TlVBa3VkSVRBSzUtNGJ4MFVZTzI5YWRuTWJSNmwyMUNYRmxGQXdfUnFWTW1IQ09hWHNSQ2ZXYWlaMDhMb2dGYUh3VkRWWEpvWmlfQ05HcmRBZkZ0cm45Wk5fNDU0?oc=5"
-  },
-  {
-   "t": "Sh수협은행, 해킹 공격에 고객 54명 정보 유출…해킹 피해 은행 5곳으로",
-   "s": "뉴스1",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xY2xGeFR3OFRzb1E3THJOYVhfM0Y4OEVSNXBSeTRxSFVraG1XS3o5SnQ4d2ZHUmdmd2J0eUZIS0FsTEZoVTctWU5tQUNMUTA0OTVfQm96dFdiVm9tT1Z2MGpB?oc=5"
-  },
-  {
-   "t": "수협은행도 해킹 사고…고객 54명 정보 유출",
-   "s": "Chosunbiz",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV1VfYTcxcjJUNjRTNndoREpiamVfendXUVJCV2dCcjdNaWt5ZlNyOFI4MUt6RC1VbS05NE5sd0VXaVNIYVo4SkFKMUdFTGxHMHJQUUFtVVdMREsybVBna1JVWXo4TmJuY2pGdmc4NzVYNkhHWkZxTmVEd1BIamFDTdIBlAFBVV95cUxQVUFkMGJEemN6dnFlck96R0xmRjJlZkdqVkpUenU0dWxjYjU5ZFk4Ri0yNDJYbHlreWdxa0xPLXJtWU9IcWJiQndCUWNJU0Ntb1NMWFh4ZHlqMHRDMWczUFd1TDRnd2t3MWJQc3lNbElsWjFIQ1hYZDM0cEN2d3h5MzYydG9VSlMwUkVhYXd5RDB1XzU0?oc=5"
   }
  ]
 }

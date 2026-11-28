@@ -1,7 +1,49 @@
 {
- "updated": "2026-11-28T09:08:32.284Z",
+ "updated": "2026-11-28T13:21:13.641Z",
  "count": 40,
  "items": [
+  {
+   "t": "인터넷우체국 해킹…등기우편 고객 정보 11만명 이상 유출",
+   "s": "KBS 뉴스",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oQmF5Z1ozMXhkSVN6RUdtTWQ4X0JnNFFZMnZ2elVkMVphMjN1NmRoTWdtYXJWYkFER2p1OUhDM2kzWGYtSkNQbVRmcHVpSHlqNl9HdjJ5OXpVSDNTUFUxb1g3RmFXUQ?oc=5"
+  },
+  {
+   "t": "‘또 해킹’ 우체국도 뚫렸다…해외 IP로 11만3천명 정보 유출",
+   "s": "JTBC",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCdkRDdXNFeWpPVk92UDd1anN2R1JtaHhFamdCQjlFTHRleE1LY09lc1hRTWNpN1QxSVVoNVJUam45bnhCWVFQM1hVZWlpeHI2NDNOTQ?oc=5"
+  },
+  {
+   "t": "수협은행 해킹으로 고객 54명 정보 유출…금감원에 사고 보고",
+   "s": "프라임경제",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBNmlqZkx6d29IakN4b1d2aXQ5UXRKLXFXdFhta2pyMmJkeGZzQTFwdzhXOU1jc0t6ZzJVa25HcXMtODNwc0ZHUzBvZ2ZiUGgwZG03T3RHUjgyQnhjOHltNGs0RG9DZ0pRVm8tTw?oc=5"
+  },
+  {
+   "t": "인터넷우체국도 뚫렸다‥11만 명 개인정보 유출 '맞춤형 보이스피싱' 우려",
+   "s": "MBC 뉴스",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OT2dxS3FFdFJKR29PRGhzN09Jd3J0Z2dKQmozLUthMVUwUXJvR0g4NU1nS1lnaUN3X3lXdDd0bnRRUzcwRjdHYkFiSmRmdkJyX1gyVlM5bHpvUW9abk50VFFWUnYxZnFkbGJwb2dOOWljbVktSERHQQ?oc=5"
+  },
+  {
+   "t": "‘75만 명 개인정보 유출’ 동행복권, 과징금 취소소송 1심 패소",
+   "s": "문화일보",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9saEpPX19lVWRFMTUwQnN2ZXB1Qm1FaGxaTkNiSjl1VXZfbUNJY0ZPNzFfV2h6dWdWSk5tMEhFbGtxRUVWVXExdlU0VmxTVncy?oc=5"
+  },
+  {
+   "t": "개인정보위, 한전 개인정보 유출사고 조사 착수",
+   "s": "서울Pn",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nM2Z1X2pLNjJVZDc1M205QVNIS0w0NGtESlZnMURidFlrQ0J5dGRoOVM1dUF6M0FmeHdMclB5a0tidWx4OTBaMURQTUhONjZ4OFE0aldxRXFtSmp0M1p3NVVn?oc=5"
+  },
+  {
+   "t": "'75만명 개인정보 유출' 동행복권…5억 과징금 취소소송 1심 패소",
+   "s": "연합투데이",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00NXZWREdSLUpxT1ZyVU5nVmJpNnUxSTNjTTQ5Tm5UeDh0UWNMYVdkWjVFV0dTcEdxWmRxYzZiWF9RcTdOaUQtbDJQYk84MWJEZXlQaVZyVlBVQ09RSHk0UkYtQjFwQXlDVENWSWxKWdIBb0FVX3lxTE00NXZWREdSLUpxT1ZyVU5nVmJpNnUxSTNjTTQ5Tm5UeDh0UWNMYVdkWjVFV0dTcEdxWmRxYzZiWF9RcTdOaUQtbDJQYk84MWJEZXlQaVZyVlBVQ09RSHk0UkYtQjFwQXlDVENWSWxKWQ?oc=5"
+  },
   {
    "t": "‘개인정보 유출’ 로또 운영사 동행복권, 5억원 과징금 소송 1심 패소",
    "s": "강원도민일보",
@@ -9,28 +51,22 @@
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KNF9VM0xVUzJYZGJYNTRzQnVVZjRCa296NFJDdTBPMXZYMVRqOVhUWmp2dmFTQ2hkSzk5aS1rQkZlQm5FUFYxbDZXQmpSazJzQnBVRXlGUUtFR3Q3WTd5Zy1SMEpXMXM?oc=5"
   },
   {
-   "t": "'75만명 개인정보 유출' 동행복권…5억 과징금 취소소송 1심 패소",
-   "s": "뉴스1",
-   "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94cGVSc3hyNGlPNVNGbkFfUGEyN1BBLUlXT1gySnd0OVQyOFVvZUdObTNyWTU5bV8zci05Q2FNQzJoOEJpTGFHQ0lQemc0TWVyWktDZFBxRldBemRzanpISnpKN2k?oc=5"
-  },
-  {
    "t": "'75만 개인정보 유출' 동행복권, 5억 과징금 취소소송 1심 패소",
    "s": "뉴시스",
    "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WNXRFZnByOXo4NmxFeHFubGdEN1pxeWNrYnZZaFJ4NHFweEhvMFRaMk93cnc1NW42THZPNmNyODBiaFE5VXhiVEdhT3lfRHQtTGF0elFqcEl4WWYybzEyMdIBeEFVX3lxTFBBbFI5My1KWC0yc2xPVTdvaC1jT2VPT3I4eXk0dU5MeDBGVXRJY19weHY0VTVlVnlvRDhFTnVScTZVNmE1THpMQnJGZmxqN19EdHlLMGMzMGVQT0Iyc05RU2NHaUtoeV9lSzhhLUl3ZnZfNFpPTVcybw?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBbFI5My1KWC0yc2xPVTdvaC1jT2VPT3I4eXk0dU5MeDBGVXRJY19weHY0VTVlVnlvRDhFTnVScTZVNmE1THpMQnJGZmxqN19EdHlLMGMzMGVQT0Iyc05RU2NHaUtoeV9lSzhhLUl3ZnZfNFpPTVcyb9IBeEFVX3lxTFBBbFI5My1KWC0yc2xPVTdvaC1jT2VPT3I4eXk0dU5MeDBGVXRJY19weHY0VTVlVnlvRDhFTnVScTZVNmE1THpMQnJGZmxqN19EdHlLMGMzMGVQT0Iyc05RU2NHaUtoeV9lSzhhLUl3ZnZfNFpPTVcybw?oc=5"
+  },
+  {
+   "t": "다나와 해킹으로 개인정보 유출…사흘째 서비스 중단",
+   "s": "전자신문",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNM2l6ZmhaSFdueWlOWnJUeWgxSGJ6NzQtU2U1UnJLblBObmlFc21TNnNVbjZWTVcwX0Z1N1lhQnpSdV9Jc05RTm1sdFpmUQ?oc=5"
   },
   {
    "t": "법원 \"'75만 개인정보 유출' 동행복권 과징금 적법\"",
    "s": "OBS경인TV",
    "d": "2026-11-28",
    "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wcGM1S3hDSlp0Um1sRUlZNGc4dkdLREc5SWlvMGxLaFFUZk9HQ0J5WmN4OWlCQXYyRnBLcTRrTnF3N0F5Y2xpLWhHLXZ2Vmh2SU5ZeVd5cWM0ZWItUzRDUVhzN0Zyc2ZTZnl4bVJn?oc=5"
-  },
-  {
-   "t": "'75만명 개인정보 유출' 동행복권, 과징금 취소 소송 1심 패소",
-   "s": "데일리안",
-   "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWW15cTBqSl9wTWQzYUhjTkJuNHlXc2QwU01Sa3h0MS1LeFB3aUNlMjhYYk54eGxXWkRjZVMzaGFuLXZIR0dmdTkxVGFZQWJSbXBzZzdYVHA5OVMwejhGUUNlUU5NSXlpOEo1NEZ1TUdCamdteDlSSWRDQTFVX3g1SUNGQmo4UnRERmoySVNnMmN4dWY0N2VLZGRxNFlhWUxNTS0zZ1VSWlRGUG9zdllYb3hBLWRyaW42anNQdTNtdTg2VzBob2ZsTEtNS3NKSUZJMUpNWEkwNnFvQjE3cmE1S2lWQ3lKQ2hfbXlpazg3ZnlxOGFJeWZVd1Z0bWs5XzR2Rl9zbENIdER3SUNoakE?oc=5"
   },
   {
    "t": "인터넷우체국 해킹...등기우편 고객 정보 유출",
@@ -51,10 +87,10 @@
    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eEo0bUtmVk5HaVNtQUcxZkV0aXZnZXA1Y1RQbllKdWRiWXVBTW5TNm9Lby0yeU9BNXExRUNwa2tNY3dBa1EwSkVEV0t6Q0ZiOFRtNEFDQzZ1WUtGeVNQUW0yamt6bHdEcWNHVXFHU0tzQQ?oc=5"
   },
   {
-   "t": "인터넷우체국서 개인정보 유출…하루치만 11만명",
-   "s": "디지털데일리",
+   "t": "인터넷우체국 해킹 공격…약 11만명 개인정보 유출",
+   "s": "JTBC",
    "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tU2JpWEl2UVFhdlFhQlNITEpPS3pPcTg0Z0RxaHBQdDByQVFzYWM1Q05hQlJBeHdid1dDbW5fVTNBaVNPRkdUel9LQTFHVm5GZTdlMmVycnVoSkdtbDhoNkExN0Y?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3TW44dmtXbXpkYklPcHJDRkxKdlNXOU85SG92Z1psdzlRQWN3YkN0SnVqcDFtU2tiZnV2RnQ4S24xNjY2VWctZTNaMjhwNEREOVB5Mg?oc=5"
   },
   {
    "t": "인터넷우체국에 외부해킹 공격…우본 “11.3만명 개인정보 유출 확인”",
@@ -73,12 +109,6 @@
    "s": "경기신문",
    "d": "2026-11-28",
    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqSnJISUhxNjBUa2Rpc084R0FYV2ZRVHB6OC01bVJ2MlMtR1FVRm5leDBkcE0xVU14Vml2ZS1DaDBVcy1RWFVFS2NUR1JWRVpyU0N2OVp4UlJVQktKQXdlN19n?oc=5"
-  },
-  {
-   "t": "인터넷우체국 해킹 피해…고객 11만 명 정보 유출",
-   "s": "KBS 뉴스",
-   "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNWYxRWRSQUhMaTZ6cExCTTRmN3hodjF6a0tjZ0ZmZXJ1cWxJWVllZmdKTHhWZFFuYVBjTFV3a1I2UjROcV9BSVR0RlN0dm44R0xSa0FaazRwNzA?oc=5"
   },
   {
    "t": "75만명 개인정보 유출 동행복권, 과징금 취소소송 패소…법원, 보안조치 미흡 판단",
@@ -135,6 +165,12 @@
    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbEJrazk3MUVMMWdTOEE4RFd0NzN2QXFlZTA3RHZiU0NtR1E4VWNSQURtNmY5UTA2UW0tMXJURnZRTHFuSno5SjEwTjc1czB1ODFJbEFMVDVLNUpseVBVbmJnUjJSdEY0LUU2WWVIcGNIRlAybWxGS3lHSG9lXzg2Qw?oc=5"
   },
   {
+   "t": "75만명 개인정보 유출 '동행복권'…법원 5억 과징금 적법",
+   "s": "SBS Biz",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Fd09BM2xEWmpTeFo4N0FUSjcwakRXNWFwQno5ZW5rWUlTemxyV1BqbEpSZHVGZUNFbWxoa3ZpUVhZMmhfNWR4d21KMnFoYnVJanZj0gFYQVVfeXFMUE5IMWZRMTdFS0pRVE9sUHJZREI3Z1dCN0lVUDhqTHNJQV9oMl9qV0d2UGZMSGlidWN5eWlxVjZCXzNXMDBjQzlTdkdILW1sM1B4QndwZHctdw?oc=5"
+  },
+  {
    "t": "인터넷우체국 해킹에 11만4000명 개인정보 유출",
    "s": "보안뉴스",
    "d": "2026-11-28",
@@ -147,10 +183,10 @@
    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tbzBleERWNDg1RHZQX2hsM2VXX3BxeUlLYkNrUkdkcGU0SkFrMWdWcXAwT0FpdjNHZGZYaWNlRWF4WVozMUV4Z3ltU2ctRlNRLVE4ckJwcTNNZ013VkNZZkFtc0VxNFk?oc=5"
   },
   {
-   "t": "우체국도 ‘등기우편 수취인 11만여명’ 개인정보 유출···배달장소 변경서비스 통해 해커들 접근",
+   "t": "우체국도 해킹으로 개인정보 유출…등기우편 수취인 11만여명",
    "s": "경향신문",
    "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KdGdOS2hfQnAwd0pJZUEwVk9hQlM1Y3VUQXdNM19ZYlpJRXhFcFA3N2p5TmVXakZCeHYzaGNNS1NDRVM4Uml6ZndWaWFnaFF0OVZjOFoxRDVhd9IBX0FVX3lxTFBrTWxxTW5zTlZZR3BncjhHUXRhd2g0TTBZNjQwaVZDV2pKWDhnZXQ1RDAzZUE1UlhUYzhoQ0hJNE8xSi1Sak5fM2g4d0NXZFl1aDl2NW9VTllPX2c2TEpr?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrTWxxTW5zTlZZR3BncjhHUXRhd2g0TTBZNjQwaVZDV2pKWDhnZXQ1RDAzZUE1UlhUYzhoQ0hJNE8xSi1Sak5fM2g4d0NXZFl1aDl2NW9VTllPX2c2TEpr0gFfQVVfeXFMUGtNbHFNbnNOVllHcGdyOEdRdGF3aDRNMFk2NDBpVkNXakpYOGdldDVEMDNlQTVSWFRjOGhDSEk0TzFKLVJqTl8zaDh3Q1dkWXVoOXY1b1VOWU9fZzZMSms?oc=5"
   },
   {
    "t": "75만명 정보 유출 책임 피하지 못했다…동행복권, 5억원 과징금 소송 패소",
@@ -159,22 +195,22 @@
    "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RUXpjRzVCb3Qxa3UxSHdaU3E0TmtXWmdTWV9fLW5KWlZ3RVZlbFNiMGFXZ3BFdFNfQU8yNzY1Wm9uNnhpQkYxU01KV3kyVG84aEYtQzZyTTEzczQ?oc=5"
   },
   {
-   "t": "[초점] 올리브영·컬리·빗썸 잇단 해킹…사내 업무 시스템서 고객정보 샜다",
-   "s": "아이티데일리",
+   "t": "\"인터넷우체국도 털렸다\"…하루치만 11만여 명 개인정보 유출",
+   "s": "KBC광주방송",
    "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80Yi1CYTlwdG5zdjI1RndTaGZiUmZ3clhOT3lCaEJDdkVqbEgwcmJoT3BaUWhfbXJydU9DV2NnWkdFdXZ6NjNnNUZyY1FqREtoRVR3UUFhejAyM0c1VGxKVVF0ZVI2bFFY?oc=5"
-  },
-  {
-   "t": "쿠팡 개인정보 유출 1년…김범석 약속 지켰나?",
-   "s": "KBS 뉴스",
-   "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VOGlkMXJzdExLdThQUDJZLUh6TEkxUW5qYXkydl8wNUlzRDlpLW16cm5DNlFiOUlfck9ncTB0SDAzVzd0SE9nNFFjc1JIZ3N4Zi1yRjVxNFI2UDQ?oc=5"
+   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MZllKeDVudVhieF9uRk1IMlN6NEZmX3hXYmV3d3Q4enV5LTRBcnd5ME16QTFQWWdFemx3M2RyN3NmLWc5VHE1QVdIZGJHUDh5YkZ4UjFueEl2cHUwZjg0Ng?oc=5"
   },
   {
    "t": "‘75만명 정보 유출’ 동행복권 과징금 불복 소송서 패소",
    "s": "천지일보",
    "d": "2026-11-28",
    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95dEhUTmxKN1VSZ1YyNnBCMmZjaE5qcm1TLUxpYkxOUFJ1Q3d0YlBlRmRMSlFEVkNfX2VIZ25FalhzYmo1c21LUVZSSDlPcXBkb0hPUU9RNE0tMkZSSWZnSVltbXRtSTV1X0E?oc=5"
+  },
+  {
+   "t": "인터넷우체국 해킹으로 개인정보 유출…하루분량 11만3천여건",
+   "s": "여성신문",
+   "d": "2026-11-28",
+   "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kbmZOeHJXb19EM0tEYVFRWjZvVGFzR0NFd3Yza25ZZkNDN3lCalN4ZDJ2ZGRIa2xJeUVWdlRsYk45bHhmQUlFQ1U4QmVsQ0QzVlJwbmhEN3RUNGJMWGsxNk5PS0FxRlF4M1RqU1E3Mndqa03SAXNBVV95cUxPZG5mTnhyV29fRDNLRGFRUVo2b1Rhc0dDRXd2M2tuWWZDQzd5QmpTeGQydmRkSGtsSXlFVnZUbGJOOWx4ZkFJRUNVOEJlbENEM1ZScG5oRDd0VDRiTFhrMTZOT0tBcUZReDNUalNRNzJ3amtN?oc=5"
   },
   {
    "t": "75만명 정보 털린 동행복권…\"막을 수 없었다\" 주장했지만",
@@ -205,42 +241,6 @@
    "s": "머니투데이",
    "d": "2026-11-28",
    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xRk4tYjgwYXJ5LTVNUXdaSWNlSUd5RXV4bTNxLW1CM0VqZFhmQURacUVXSGU1blR2ZGYxUjNNTjRBcG9VTmlFWE9xVFBfODFFOXR3bUVCcGFVYkZCekdPYS1wc19Ka29IWjFtaktYQdIBb0FVX3lxTE1xRk4tYjgwYXJ5LTVNUXdaSWNlSUd5RXV4bTNxLW1CM0VqZFhmQURacUVXSGU1blR2ZGYxUjNNTjRBcG9VTmlFWE9xVFBfODFFOXR3bUVCcGFVYkZCekdPYS1wc19Ka29IWjFtaktYQQ?oc=5"
-  },
-  {
-   "t": "다나와 \"회원정보 일부 유출 확인\"…예스24 때와 판박이?",
-   "s": "지디넷코리아",
-   "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dzRKVUNwSXFKSmdFNGpMNlFzLXdZWmFCcFMtdUthQUg2NGdOU3RrdzF5V3l1S0Q1QUoxYTl0NzBtQ19NUkd3ZXg2R3NhRTNMNjhZUnpR?oc=5"
-  },
-  {
-   "t": "개인정보위, 한전 개인정보 유출사고 조사 착수",
-   "s": "서울Pn",
-   "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nM2Z1X2pLNjJVZDc1M205QVNIS0w0NGtESlZnMURidFlrQ0J5dGRoOVM1dUF6M0FmeHdMclB5a0tidWx4OTBaMURQTUhONjZ4OFE0aldxRXFtSmp0M1p3NVVn?oc=5"
-  },
-  {
-   "t": "인터넷우체국 개인정보 털렸다...하루치만 11만명 넘게 유출",
-   "s": "조선일보",
-   "d": "2026-11-28",
-   "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa1JQMy1vbDhFRWQ4dVdtc3hMSy1zSVFNOWJGTmJ6UFNlaGxqQWVESlU1WGxNVjY4QkRJNUF6M2FPejlod2xRVHlKVnNkelg3b1BjYXNiOWdjNjNSUFZGQnpkYVEyZEpKakZyYkdvZHZjcDEzaWFyMmt0Z2FVNUwtRmxKYw?oc=5"
-  },
-  {
-   "t": "인터넷우체국 개인정보 유출 사고…하루치만 11만명 넘어",
-   "s": "Chosunbiz",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWlibzU1Sm5OblBRVmNWcWdLM3owZXItT0RzaXIwUGVPaS1ZOGFmQXJ1M2s4ckxsZFFMSEtXLS1wSTNjaVlNczB6ZVVRcGFhR05pamdLaXVKR0FEemZEd3UwSC14MW9GYktYTzJ0MHRQRVhCZVQ1dGxEQWpNdDc5QnkxVGZrVEpvVlHSAZ4BQVVfeXFMUEoxOWNpR2kyZWxaWElNQ1hhUWVwTkl3ZlJ6eVBQaVJ5STZvT2xTZ2ZIWXNvcmQ1N3Vsd0hfeDl1cXROMm5BRUVHeW1YYXRNX2xRSmhJY1FZQjNJaXU4Nm9FWnRJNUlsUGN4WDlGZ0g0MzNuZlN5SkZQM3NXU19tTkFxN3ZDeGJDZGE0c1d2eFFadWMyYVc1eTcxaXI5VGc?oc=5"
-  },
-  {
-   "t": "인터넷우체국 개인정보 유출…하루치만 11만명 이상",
-   "s": "연합뉴스TV",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YWnNCLWt5bDRjSEdZeTV0MElSRFlIVnZtUmRFaTI5ZXlueElxUnBsd3RpbXpfV29tSjQ5SThBdUJ6NWJrZVdFaHozbUN2SUdadTFRUlI4ckJkWnFIM3dqWm1FcUxYQ1E?oc=5"
-  },
-  {
-   "t": "인터넷우체국도 털렸다…하루치만 11.3만명 개인정보 유출",
-   "s": "뉴시스",
-   "d": "2026-11-27",
-   "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQThCWXFYTnd4SU5OLS14cTNmQTBzS1NSUW5tQ29QV2RTTTVDazFYbFplZkFwMWd0b1drSXg3eEZ6LXlYbXIwcktMak1CUmtUNHlTTUpxZ2dkb1FUckd3ctIBeEFVX3lxTFBCS1hfdjZicDhZMzdId3VHeEFsVkFMVTNNWjFTOGQ1ZEZCTWVsVTN1OThzSFllLWs3STctcVFSUEZIZ2VIS0VqRXUwd0ZVMzBiWEt5OWFoRGtZazd3c1JoSDMwdFpKUllJZzNheTRZa1VjWUlRLXVOMg?oc=5"
   }
  ]
 }
